@@ -28,7 +28,7 @@ O objetivo principal deste desafio é estudar e aplicar conceitos essenciais de 
 
 | **Pasta/Arquivo** | **Descrição**                                                                 |
 |--------------------|------------------------------------------------------------------------------|
-| `/day-X/`          | Conteúdo do dia X (explicações, exemplos de código, reflexões).             |
+| `contents/day-X/`  | Conteúdo do dia X (explicações, exemplos de código, reflexões).             |
 | `/projects/`       | Projetos práticos desenvolvidos ao longo do desafio.                       |
 | `/resources/`      | Artigos, vídeos e materiais de estudo recomendados.                        |
 | `README.md`        | Este arquivo com a descrição do desafio e como navegar pelo repositório.   |
