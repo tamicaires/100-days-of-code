@@ -1,4 +1,4 @@
-# Design Patterns: O que são, Quando Usar e Como Usar
+# Dia 3: Design Patterns: O que são, Quando Usar e Como Usar
 
 ## O que são Design Patterns? 🤔
 
